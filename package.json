@@ -2,7 +2,7 @@
   "name": "insight-website",
   "version": "1.0.0",
   "devDependencies": {
-    "browser-sync": "^2.11.2",
+    "browser-sync": "^2.27.10",
     "gulp-debug": "^2.1.1",
     "gulp-gh-pages": "^0.5.2",
     "gulp-imagemin": "^2.3.0",
@@ -21,7 +21,7 @@
     "async": "1.4.2",
     "compression": "^1.6.0",
     "del": "^2.0.2",
-    "express": "^4.13.3",
+    "express": "^4.18.2",
     "express-error-handler": "^1.0.1",
     "globby": "^3.0.1",
     "gulp": "^3.9.0",
